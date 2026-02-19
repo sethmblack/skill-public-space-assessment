@@ -4,7 +4,7 @@ description: Evaluate public spaces using behavioral observation methods pioneer
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4768
+  version: 1.0.4769
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - public-space-assessment
